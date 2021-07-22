@@ -14,6 +14,7 @@ Simple server-client based web game using web sockets.
 * Open http://localhost:3000
 
 ## Usage
+* WASD to move
 * Scroll to switch weapons
 * Click to shoot
 * R to reload
