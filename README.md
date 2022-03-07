@@ -8,7 +8,7 @@ Simple server-client browser game made using p5.js and web sockets.
 
 * ```npm install``` 
 
-#### Executing program
+#### Execution
 
 * ``` node server.js ```
 * Open http://localhost:3000
