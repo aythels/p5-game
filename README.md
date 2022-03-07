@@ -1,6 +1,6 @@
 # p5.js Game 
 
-Simple server-client browser game made using p5.js and web sockets.
+An experiment in creating a simple server-client based browser game using p5.js and web sockets.
 
 ## Getting Started
 
